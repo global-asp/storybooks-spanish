@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuentos en Español</title>
+    <description>Cuentos en Español se diseñó específicamente para docentes y padres de familia. Pone a su disposición 40 cuentos del African Storybook con su texto y audio en español, así como en otras lenguas.
+</description>
+    <link>https://global-asp.github.io//storybooks-spanish/</link>
+    <atom:link href="https://global-asp.github.io//storybooks-spanish/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 15 Jan 2023 23:27:02 -0800</pubDate>
+    <lastBuildDate>Sun, 15 Jan 2023 23:27:02 -0800</lastBuildDate>
+    <generator>Jekyll v4.3.1</generator>
+    
+  </channel>
+</rss>
